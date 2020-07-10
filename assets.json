@@ -14,11 +14,6 @@
 			"https://gitcdn.xyz/repo/publicsuffix/list/master/public_suffix_list.dat"
 		]
 	},
-	"ublock-resources": {
-		"content": "internal",
-		"updateAfter": 7,
-		"contentURL": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resources.txt"
-	},
 	"ublock-filters": {
 		"content": "filters",
 		"group": "default",
