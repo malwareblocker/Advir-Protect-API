@@ -125,21 +125,21 @@
     "contentURL": "https://www.fanboy.co.nz/enhancedstats.txt",
     "supportURL": "https://github.com/ryanbr/fanboy-adblock/issues"
   },
-  "urlhaus-1": {
-    "content": "filters",
-    "group": "malware",
-    "title": "Online Malicious URL Blocklist",
-    "contentURL": [
-      "https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt"
-    ],
-    "cdnURLs": [
-      "https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-online.txt",
-      "https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt",
-      "https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-online.txt",
-      "https://repo.or.cz/urlhaus-filter.git/blob_plain/refs/heads/master:/urlhaus-filter-online.txt"
-    ],
-    "supportURL": "https://gitlab.com/curben/urlhaus-filter#urlhaus-malicious-url-blocklist"
-  },
+	"urlhaus-1": {
+		"content": "filters",
+		"group": "malware",
+		"title": "Online Malicious URL Blocklist",
+		"contentURL": [
+			"https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt"
+		],
+		"cdnURLs": [
+			"https://cdn.statically.io/gl/curben/urlhaus-filter/master/urlhaus-filter-online.txt",
+			"https://glcdn.githack.com/curben/urlhaus-filter/raw/master/urlhaus-filter-online.txt",
+			"https://gitcdn.xyz/repo/curbengh/urlhaus-filter/master/urlhaus-filter-online.txt",
+      "https://cdn.jsdelivr.net/gh/curbengh/urlhaus-filter/urlhaus-filter-online.txt"
+		],
+		"supportURL": "https://gitlab.com/curben/urlhaus-filter#urlhaus-malicious-url-blocklist"
+	},
   "spam404-0": {
     "content": "filters",
     "group": "malware",
